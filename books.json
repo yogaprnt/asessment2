@@ -1,0 +1,34 @@
+{
+  "hasil_panen": [
+    {
+      "id": 1,
+      "nama": "Padi",
+      "berat": "100",
+      "tanggal": "11-23-2022"
+    },
+    {
+      "id": 2,
+      "nama": "Jagung",
+      "berat": "100",
+      "tanggal": "11-23-2022"
+    },
+    {
+      "id": 3,
+      "nama": "Ubi",
+      "berat": "100",
+      "tanggal": "11-23-2022"
+    },
+    {
+      "id": 4,
+      "nama": "Kacang",
+      "berat": "100",
+      "tanggal": "11-23-2022"
+    },
+    {
+      "id": 5,
+      "nama": "Singkong",
+      "berat": "100",
+      "tanggal": "11-23-2022"
+    }
+  ]
+}
